@@ -1,8 +1,10 @@
 {
   "name": "neo-planet-conquer",
+  "publisher": "neo-planet-conquer",
+  "icon": "icon.png",
   "displayName": "Neo-Planet-Conquer",
   "description": "Yo, I'm just a resx file editor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -32,6 +34,10 @@
         }
       ]
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neo-Universe/NeoPlanetConquer"
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
