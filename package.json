@@ -1,7 +1,7 @@
 {
   "name": "neo-planet-conquer",
   "displayName": "Neo-Planet-Conquer",
-  "description": "",
+  "description": "Yo, I'm just a resx file editor",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
