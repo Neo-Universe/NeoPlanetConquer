@@ -145,7 +145,7 @@ function getWebviewContent(data: any[], webview: vscode.Webview, extensionUri: v
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="${styleUri}" rel="stylesheet" />
-        <title>RESX Table Editor</title>
+        <title>Neo Planet Conquer</title>
     </head>
     <body>
         <table>
