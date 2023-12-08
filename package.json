@@ -4,7 +4,7 @@
   "icon": "icon.png",
   "displayName": "Neo-Planet-Conquer",
   "description": "Yo, I'm just a resx file editor",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -14,7 +14,6 @@
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
-    
     "menus": {
       "editor/title": [
         {
