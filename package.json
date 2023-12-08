@@ -4,9 +4,9 @@
   "icon": "icon.png",
   "displayName": "Neo-Planet-Conquer",
   "description": "Yo, I'm just a resx file editor",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "engines": {
-    "vscode": "^1.84.0"
+    "vscode": "^1.85.0"
   },
   "categories": [
     "Other"
@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^10.0.6",
-    "@types/node": "20.10.4",
+    "@types/node": "18.19.3",
     "@types/vscode": "^1.85.0",
     "@types/xml2js": "^0.4.14",
     "@typescript-eslint/eslint-plugin": "^6.13.2",
