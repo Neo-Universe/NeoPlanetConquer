@@ -22,7 +22,7 @@ export function activate(context: vscode.ExtensionContext) {
             const data = parseResxToTable(result);
             const panel = vscode.window.createWebviewPanel(
                 'resxTable',
-                'RESX Table Editor',
+                'Neo Planet Conquer',
                 vscode.ViewColumn.One,
                 { enableScripts: true }
             );
