@@ -5,4 +5,5 @@
 ```bash
 npm run vscode:prepublish
 vsce publish minor 
+
 ```
