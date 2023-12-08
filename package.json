@@ -14,13 +14,7 @@
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "neo-planet-conquer.openResxAsTable",
-        "title": "Open as Table",
-        "category": "Neo-Planet-Conquer"
-      }
-    ],
+    
     "menus": {
       "editor/title": [
         {
