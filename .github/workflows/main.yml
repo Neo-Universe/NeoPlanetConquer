@@ -25,14 +25,8 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Patch Version
-        run: | 
-            git add .
-            git commit -m "chore: bump version"
-            npm version patch
-
-      - name: Package Extension
-        run: npm run vscode:prepublish
+      # - name: Package Extension
+      #   run: npm run vscode:prepublish
 
       - name: Publish Extension
         env:
