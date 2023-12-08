@@ -16,10 +16,6 @@
   "contributes": {
     "commands": [
       {
-        "command": "neo-planet-conquer.helloWorld",
-        "title": "Hello World"
-      },
-      {
         "command": "neo-planet-conquer.openResxAsTable",
         "title": "Open as Table",
         "category": "Neo-Planet-Conquer"
